@@ -6,7 +6,7 @@
     "body": {
       "background": {
         "type": "html",
-        "url": "https://take.vc",
+        "url": "https://docs.google.com/forms/d/1M2bfW6ORc_7reWyqFBgMwCxcnQ1i_4QUkTQ-RSBxlZA/viewform?edit_requested=true",
         "action": {
           "trigger": "navigate"
         }
