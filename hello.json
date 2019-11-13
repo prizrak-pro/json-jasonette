@@ -6,7 +6,10 @@
     "body": {
       "background": {
         "type": "html",
-        "url": "https:yandex.ru"
+        "url": "https://yandex.ru",
+        "action": {
+          "trigger": "navigate"
+        }
       }
     }
   }
